@@ -1,0 +1,27 @@
+@font-face {
+  font-family: "Barna Break Regular";
+  font-style: normal;
+  font-weight: normal;
+  src: local("Barna Break Regular"), url("Barna Break.woff") format("woff");
+}
+@font-face {
+  font-family: "Munchies Regular";
+  font-style: normal;
+  font-weight: normal;
+  src: local("Munchies Regular"), url("Munchies.woff") format("woff");
+}
+a {
+  font-family: "Barna Break Regular";
+  font-weight: normal;
+  font-size: 25px !important;
+  box-shadow: 0px 0px 5px;
+}
+.brand-logo {
+  font-family: "Munchies Regular";
+}
+
+#toast-container {
+  top: 70px !important;
+  right: 20px !important;
+  left: auto !important;
+}

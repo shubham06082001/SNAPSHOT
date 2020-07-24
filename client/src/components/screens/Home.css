@@ -1,0 +1,22 @@
+.home {
+  margin: 0 auto;
+  text-align: center;
+  padding: 15px;
+}
+
+.home-card {
+  max-width: 500px !important;
+  margin: 20px auto;
+  padding: 10px;
+  border: 4px solid white;
+  border-radius: 10px;
+}
+/* input{
+  color: white;
+} */
+
+/* input[type="text"]:focus {
+  border-bottom: 1px solid teal !important;
+  box-shadow: 0 1px 0 0 teal !important;
+  color: #7c4dff !important;
+} */
